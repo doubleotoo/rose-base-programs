@@ -1,8 +1,9 @@
 rose-base-programs
 ==================
 
+## Programs
 * Java
-	* Apache James
+	* Apache James 2.3.2
 
 ## Modifications
 * Apache James
